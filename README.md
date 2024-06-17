@@ -21,7 +21,7 @@ sudo apt install python3-pip
 
 pip3 install -r requirements.txt
 
-# temperory running
+#temperory running
 python3 -m streamlit run app.py
 
 #Permanent running
