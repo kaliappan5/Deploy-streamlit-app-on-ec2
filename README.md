@@ -5,7 +5,7 @@
 
 Note: Do the port mapping to this port: 8501
 
-sudo get update
+sudo apt update
 
 sudo apt get update
 
